@@ -92,7 +92,7 @@ form input, form textarea, form button {
 
 /* container */
 .container {
-  width: 85%; 
+  width: 100%; 
   margin: 0 auto;
 }
 
